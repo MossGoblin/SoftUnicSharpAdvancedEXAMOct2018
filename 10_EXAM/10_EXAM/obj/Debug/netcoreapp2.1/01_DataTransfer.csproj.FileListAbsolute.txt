@@ -1,0 +1,11 @@
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\10_EXAM\obj\Debug\netcoreapp2.1\01_DataTransfer.csprojAssemblyReference.cache
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\10_EXAM\obj\Debug\netcoreapp2.1\01_DataTransfer.csproj.CoreCompileInputs.cache
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\10_EXAM\obj\Debug\netcoreapp2.1\01_DataTransfer.AssemblyInfoInputs.cache
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\10_EXAM\obj\Debug\netcoreapp2.1\01_DataTransfer.AssemblyInfo.cs
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\10_EXAM\bin\Debug\netcoreapp2.1\01_DataTransfer.deps.json
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\10_EXAM\bin\Debug\netcoreapp2.1\01_DataTransfer.runtimeconfig.json
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\10_EXAM\bin\Debug\netcoreapp2.1\01_DataTransfer.runtimeconfig.dev.json
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\10_EXAM\bin\Debug\netcoreapp2.1\01_DataTransfer.dll
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\10_EXAM\bin\Debug\netcoreapp2.1\01_DataTransfer.pdb
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\10_EXAM\obj\Debug\netcoreapp2.1\01_DataTransfer.dll
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\10_EXAM\obj\Debug\netcoreapp2.1\01_DataTransfer.pdb

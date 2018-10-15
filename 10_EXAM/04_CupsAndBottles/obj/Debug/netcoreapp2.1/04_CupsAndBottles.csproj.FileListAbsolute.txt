@@ -1,0 +1,11 @@
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\04_CupsAndBottles\bin\Debug\netcoreapp2.1\04_CupsAndBottles.deps.json
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\04_CupsAndBottles\bin\Debug\netcoreapp2.1\04_CupsAndBottles.runtimeconfig.json
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\04_CupsAndBottles\bin\Debug\netcoreapp2.1\04_CupsAndBottles.runtimeconfig.dev.json
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\04_CupsAndBottles\bin\Debug\netcoreapp2.1\04_CupsAndBottles.dll
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\04_CupsAndBottles\bin\Debug\netcoreapp2.1\04_CupsAndBottles.pdb
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\04_CupsAndBottles\obj\Debug\netcoreapp2.1\04_CupsAndBottles.csprojAssemblyReference.cache
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\04_CupsAndBottles\obj\Debug\netcoreapp2.1\04_CupsAndBottles.csproj.CoreCompileInputs.cache
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\04_CupsAndBottles\obj\Debug\netcoreapp2.1\04_CupsAndBottles.AssemblyInfoInputs.cache
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\04_CupsAndBottles\obj\Debug\netcoreapp2.1\04_CupsAndBottles.AssemblyInfo.cs
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\04_CupsAndBottles\obj\Debug\netcoreapp2.1\04_CupsAndBottles.dll
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\04_CupsAndBottles\obj\Debug\netcoreapp2.1\04_CupsAndBottles.pdb

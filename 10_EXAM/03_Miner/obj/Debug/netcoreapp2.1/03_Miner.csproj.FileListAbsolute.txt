@@ -1,0 +1,11 @@
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\03_Miner\bin\Debug\netcoreapp2.1\03_Miner.deps.json
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\03_Miner\bin\Debug\netcoreapp2.1\03_Miner.runtimeconfig.json
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\03_Miner\bin\Debug\netcoreapp2.1\03_Miner.runtimeconfig.dev.json
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\03_Miner\bin\Debug\netcoreapp2.1\03_Miner.dll
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\03_Miner\bin\Debug\netcoreapp2.1\03_Miner.pdb
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\03_Miner\obj\Debug\netcoreapp2.1\03_Miner.csprojAssemblyReference.cache
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\03_Miner\obj\Debug\netcoreapp2.1\03_Miner.csproj.CoreCompileInputs.cache
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\03_Miner\obj\Debug\netcoreapp2.1\03_Miner.AssemblyInfoInputs.cache
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\03_Miner\obj\Debug\netcoreapp2.1\03_Miner.AssemblyInfo.cs
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\03_Miner\obj\Debug\netcoreapp2.1\03_Miner.dll
+D:\Codee\SOFTUNI\C Sharp ADVANCED\10_EXAM\10_EXAM\03_Miner\obj\Debug\netcoreapp2.1\03_Miner.pdb
